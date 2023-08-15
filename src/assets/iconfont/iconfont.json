@@ -1,0 +1,16 @@
+{
+  "id": "2816434",
+  "name": "村舍",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12796026",
+      "name": "代码",
+      "font_class": "daima",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
